@@ -1,0 +1,10 @@
+C:\Users\Boris\source\repos\Vozila\Vozila\bin\Debug\Vozila.exe.config
+C:\Users\Boris\source\repos\Vozila\Vozila\bin\Debug\Vozila.exe
+C:\Users\Boris\source\repos\Vozila\Vozila\bin\Debug\Vozila.pdb
+C:\Users\Boris\source\repos\Vozila\Vozila\obj\Debug\Vozila.csproj.AssemblyReference.cache
+C:\Users\Boris\source\repos\Vozila\Vozila\obj\Debug\Vozila.Form1.resources
+C:\Users\Boris\source\repos\Vozila\Vozila\obj\Debug\Vozila.Properties.Resources.resources
+C:\Users\Boris\source\repos\Vozila\Vozila\obj\Debug\Vozila.csproj.GenerateResource.cache
+C:\Users\Boris\source\repos\Vozila\Vozila\obj\Debug\Vozila.csproj.CoreCompileInputs.cache
+C:\Users\Boris\source\repos\Vozila\Vozila\obj\Debug\Vozila.exe
+C:\Users\Boris\source\repos\Vozila\Vozila\obj\Debug\Vozila.pdb
